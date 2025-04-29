@@ -105,6 +105,6 @@ All problems statements (based on the 7 lab assignments) of LP-V, along with the
 1. [HarshvardhanP01 GitHub](https://github.com/HarshvardhanP01/Distributed-Systems)
 2. [Megha Dandapat GitHub](https://github.com/meghadandapat/BE-IT-DS)
 3. [Ranjeet Kumbhar GitHub](https://github.com/RanjeetKumbhar01/BE_IT_DS_ASSIGNMENTS_SPPU)
-4. [pranav15061 GitHub](https://github.com/pranav15061)
+4. [pranav15061 GitHub](https://github.com/pranav15061/DS)
 5. [Web Service in NetBeans](https://youtu.be/ASd1S-_HLWw)
 6. [Web Service in NetBeans](https://youtu.be/0z-HvSfr-M4)
